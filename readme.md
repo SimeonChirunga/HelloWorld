@@ -7,7 +7,9 @@ Hello World project
 # Development Environment
 
 Visual Studio Code
+
 C/c++ Extension for VS Code
+
 Code runner extension for VS Code
 
 Programming language is c++
